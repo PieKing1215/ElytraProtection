@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "me.pieking1215.enchantableelytra.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "EnchantmentAccessor",
+    "MixinProtectionEnchantment"
+  ],
+  "client": [],
+  "injectors": {
+	"defaultRequire": 1
+  }
+}

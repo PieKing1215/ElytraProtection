@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "enchantableelytra",
+  "version": "${version}",
+  "name": "Enchantable Elytra",
+  "description": "Allows protection enchants on elytra.",
+  "authors": [
+	"PieKing1215"
+  ],
+  "contact": {
+	"homepage": "",
+	"sources": ""
+  },
+  "license": "GPL v3.0",
+  "icon": "assets/enchantableelytra/icon.png",
+  "environment": "*",
+  "mixins": [
+	"enchantableelytra.mixins.json"
+  ],
+  "depends": {
+	"fabricloader": ">=0.11.0",
+	"fabric": "*",
+	"minecraft": "1.16.5"
+  }
+}
