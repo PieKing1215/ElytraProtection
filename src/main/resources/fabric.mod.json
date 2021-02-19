@@ -1,25 +1,25 @@
 {
   "schemaVersion": 1,
-  "id": "enchantableelytra",
+  "id": "elytraprotection",
   "version": "${version}",
-  "name": "Enchantable Elytra",
-  "description": "Allows protection enchants on elytra.",
+  "name": "Elytra Protection",
+  "description": "Allows protection enchantments on elytra.",
   "authors": [
 	"PieKing1215"
   ],
   "contact": {
-	"homepage": "",
-	"sources": ""
+	"homepage": "https://github.com/PieKing1215/ElytraProtection-Fabric",
+	"sources": "https://github.com/PieKing1215/ElytraProtection-Fabric",
+    "issues": "https://github.com/PieKing1215/ElytraProtection-Fabric/issues"
   },
   "license": "GPL v3.0",
-  "icon": "assets/enchantableelytra/icon.png",
+  "icon": "assets/elytraprotection/icon.png",
   "environment": "*",
   "mixins": [
-	"enchantableelytra.mixins.json"
+	"elytraprotection.mixins.json"
   ],
   "depends": {
 	"fabricloader": ">=0.11.0",
-	"fabric": "*",
-	"minecraft": "1.16.5"
+	"fabric": "*"
   }
 }

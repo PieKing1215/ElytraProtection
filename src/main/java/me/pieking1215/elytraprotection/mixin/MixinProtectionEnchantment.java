@@ -1,4 +1,4 @@
-package me.pieking1215.enchantableelytra.mixin;
+package me.pieking1215.elytraprotection.mixin;
 
 import net.minecraft.enchantment.Enchantment;
 import net.minecraft.enchantment.EnchantmentTarget;
