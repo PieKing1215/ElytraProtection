@@ -7,6 +7,7 @@
 </h1>
 
 ### Minecraft Fabric mod that allows all protection enchantments to be put on elytra (including blast/fire/projectile protection)
+I made this as a more "vanilla-like" and slightly less overpowered version of the mods that let you wear a chestplate and elytra simultaneously
 
 <table>
 <tr>
